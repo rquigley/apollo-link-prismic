@@ -40,6 +40,7 @@
     "@babel/preset-env": "^7.9.5",
     "@rollup/plugin-babel": "5.0.0",
     "babel-preset-minify": "^0.5.1",
+    "core-js": "3.6.5",
     "fetch-mock": "^8.0.0",
     "graphql-tag": "^2.10.3",
     "jest": "^24.9.0",
